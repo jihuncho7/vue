@@ -1,0 +1,2 @@
+vue-router@3.5.1
+vuetify
