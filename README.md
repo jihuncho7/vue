@@ -1,5 +1,5 @@
 # film_vue
-
+this is Front-end framework for Film_ex repo
 ## Project setup
 ```
 npm install
