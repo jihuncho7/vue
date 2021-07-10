@@ -1,4 +1,4 @@
-# vue
+# film_vue
 
 ## Project setup
 ```
